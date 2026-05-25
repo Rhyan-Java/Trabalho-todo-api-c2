@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo API C2 - Task Manager
 
 API REST completa desenvolvida para o Projeto Prático da C2, utilizando **Node.js**, **TypeScript**, **Express**, **Prisma ORM** e **SQLite**.
