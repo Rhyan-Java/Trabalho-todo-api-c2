@@ -396,3 +396,6 @@ A aplicação utiliza:
 Projeto desenvolvido para o **Projeto Prático da C2**.
 
 **Alunos:** Rhyan França, Samyla Passos Silva e Breno Porto
+
+# Professor Instrutor
+Prof. Otávio Lube
